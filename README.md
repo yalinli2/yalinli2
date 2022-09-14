@@ -6,4 +6,4 @@
 - Core contributor to BioSTEAM ([GitHub](https://github.com/BioSTEAMDevelopmentGroup/biosteam), [documentation](https://biosteam.readthedocs.io/))
 - Professional personal webpage [here](https://yalinli.me)
 - Random likes (no particular order): outdoor activities (not swimming), apple, building & tearing down stuff
-- Pronouns: whatever, I don't care too much
+- Pronouns: I don't care too much, but he/him/his if there's no such thing as ID and people don't have memory :man_shrugging:
